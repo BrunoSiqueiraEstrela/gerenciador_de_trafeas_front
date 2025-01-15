@@ -1,0 +1,1 @@
+# gerenciador_de_trafeas_front
